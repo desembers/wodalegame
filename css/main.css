@@ -17,8 +17,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #d3d6da;
+    border: 3px solid #d3d6da;
     width: 60px;
     height: 60px;
-    
 }

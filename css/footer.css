@@ -1,0 +1,41 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 10px;
+    gap: 5px;
+}
+
+.keyboard-row {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.keyboard-column {
+    width: 45px;
+    height: 60px;
+    background-color: #d3d56d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.back-space-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #d3d56d;
+    display: flex;
+}
+
+.keyboard-column-wide {
+    width: 100px;
+    height: 60px;
+    background-color: #d3d56d;
+    display: flex;
+}
